@@ -1,5 +1,5 @@
 # zemi527
 
-- ZEMI FILE 
-
-- ZEMI FILE
+- ゼミ
+- ゼミ
+- ゼミ
